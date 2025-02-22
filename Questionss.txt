@@ -1,0 +1,12 @@
+What is the length of your password?
+Does your password contains any part of your first name? 
+Does your password contains any part of your last name? 
+Does your password contains any part of your preferred name? 
+Are there any numbers in your password? 
+Are there any special characters in your password? 
+Are there any upper case letters? 
+Does your password contain the name of a family member? 
+Does your password contain keyboard patterns (e.g., "123456", "qwerty", "asdfgh")? 
+Is your password based on a fictional place (e.g., Hogwarts, Gotham)? 
+Is your password in english? 
+Are you sane? 
